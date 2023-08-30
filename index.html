@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="./public/style.css">
+  
+  <title>Rating component</title>
+</head>
+<body>
+  <!-- MAIN CARD -->
+  <section class="container">
+
+    <!-- RATING INTERFACE -->
+    <div id="content1" class="content">
+      <div class="star-container">
+        <img src="./images/icon-star.svg" alt="">
+      </div>
+  
+      <h3>How did we do?</h3>
+  
+      <p class="text">
+        Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!
+      </p>
+  
+      <div class="rating-btns">
+        <button class="ratings" data-rating="1">1</button>
+        <button class="ratings" data-rating="2">2</button>
+        <button class="ratings" data-rating="3">3</button>
+        <button class="ratings" data-rating="4">4</button>
+        <button class="ratings" data-rating="5">5</button>
+      </div>
+  
+      <button class="submitBtn">
+        SUBMIT
+      </button>
+    </div>
+
+    <!-- SUCCESS INTERFACE -->
+    <div id="content2" class="content">
+      <img src="./images/illustration-thank-you.svg" alt="">
+
+      <div class="rating-stat">
+        <p class="rating-stat-text text" id="rating-stat-text"></p>
+      </div>
+
+      <div class="message">
+        <h3>Thank You!</h3>
+
+        <p class="text">We appreciate you taking the time to give a rating. If you ever need more support, don't hesiate to get in touch!</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="./public/script.js"></script>
+</body>
+</html>
