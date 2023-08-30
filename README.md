@@ -14,8 +14,8 @@ Prepare to embark on a journey to create an interactive rating component that wi
 
 ### 🔗 Links
 
-- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-url)
-- [Live Demo](https://your-live-site-url.com)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-t7ouFcWmYL)
+- [Live Demo](https://mann-19.github.io/Rating-Component/)
 
 ## 🌈 Features
 
