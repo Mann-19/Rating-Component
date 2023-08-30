@@ -10,7 +10,7 @@ Prepare to embark on a journey to create an interactive rating component that wi
 
 ### 📸 Screenshot
 
-- See a preview here: https://imgur.com/gallery/S5W42ip
+- [Screenshot Preview](https://imgur.com/gallery/S5W42ip)
 
 ### 🔗 Links
 
